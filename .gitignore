@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+
+# ?
+.vs/
+Debug/
+x64/
+RayCasting/Debug/
+RayCasting/x64/
+
+*.vcxproj.proj
+*.vcxproj
+*.vcxproj.user
